@@ -19,7 +19,7 @@ app.add_middleware(
 )
 
 mongodb = Mongo.get_instance()
-supabase_db = SupabaseDatabase()
+supabase_db = SupabaseDatabase.get_instance()
 my_globals = {}
 SECRET_KEY = "some_super_duper_secret"
 
