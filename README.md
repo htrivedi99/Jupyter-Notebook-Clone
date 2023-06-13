@@ -11,7 +11,7 @@
    2. Run the frontend using the command `npm run dev`
 
 ### Setting up the Backend
-   1. Install all of the required python packages via pip
+   1. Install all of the required python packages via pip. `pip install -r requirements.txt`
    2. Install Mongodb locally
       * You need to install the mongo shell. View this link on how to install the mongo shell: https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/
       * Once you have the mongodb downloaded, you should be able to run the `mongosh` command
