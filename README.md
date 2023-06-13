@@ -35,9 +35,15 @@
 
 ### Screenshots
 
-![Alt text](../../Desktop/jupyter_shot_1.png)
+<img width="1374" alt="jupyter_shot_1" src="https://github.com/htrivedi99/Jupyter-Notebook-Clone/assets/15642666/f2c99355-baac-4fb4-9d46-e4a09a113b44">
+<hr/>
+<br/>
 
-![Alt text](../../Desktop/Screen%20Shot%202023-06-13%20at%208.44.14%20AM.png)
 
-![Alt text](../../Desktop/Screen%20Shot%202023-06-13%20at%208.46.18%20AM.png)
+<img width="1128" alt="jupyter_shot_2" src="https://github.com/htrivedi99/Jupyter-Notebook-Clone/assets/15642666/eb0ad07a-7555-4efc-b20d-b85d3b339e7f">
+<hr/>
+<br/>
+
+<img width="1143" alt="jupyter_shot_2" src="https://github.com/htrivedi99/Jupyter-Notebook-Clone/assets/15642666/5d8061be-b085-44f6-9a8d-2287727fa51e">
+
 
